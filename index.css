@@ -1,0 +1,18 @@
+body {
+	background: #434758;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#terminal {
+	flex: 1;
+	margin: 20px;
+	padding: 15px;
+	border-radius: 15px;
+	background: #292d3e;
+}
+
